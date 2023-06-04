@@ -1,6 +1,6 @@
 # GrandMA2 FX Wings/Blocks/Groups Multiplier Plugin
 ### FX Multiplier Selector Usage
-- Select range or single Effect object (case insensetive) 
+- Select range or single Effect object (case insensitive) 
 ```
 X Thru Y
 ```
